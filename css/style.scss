@@ -220,6 +220,7 @@ body {
         @include flex_justifycontent_alignitems_gap(flex-start,  flex-start, 22px);
         flex-direction: column;
         @include font_weight_size_height_color(300, 24px, 29px, #000);
+        max-width: 652px;
     }
     &__title {
         @include font_weight_size_height_color(300, 24px, 29px, #000);
