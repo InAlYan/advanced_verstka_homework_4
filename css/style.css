@@ -259,6 +259,7 @@ body {
   font-size: 24px;
   line-height: 29px;
   color: #000;
+  max-width: 652px;
 }
 .registration__title {
   font-weight: 300;
